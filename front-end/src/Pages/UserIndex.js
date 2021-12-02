@@ -11,4 +11,3 @@ const UsersIndex = ({ users }) => {
 };
 
 export default UsersIndex;
-fff
